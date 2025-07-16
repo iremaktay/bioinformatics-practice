@@ -1,7 +1,8 @@
 import pandas as pd
 
-df = pd.read_csv("sequence_stats.csv")
-print(df)
+df = pd.read_csv("C:/Users/İREM/Desktop/biyoinformatik/second/sequences_st")
+print(df.head())
+
 
 import matplotlib.pyplot as plt
 
